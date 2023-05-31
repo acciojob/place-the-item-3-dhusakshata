@@ -9,7 +9,6 @@ display:flex;
 }
 .item{
 	background-color:green;
-	margin:20px;
-padding:20px;
+	padding:20px;
 width: 100px;
 }
